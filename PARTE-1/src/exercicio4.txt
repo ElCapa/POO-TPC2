@@ -1,0 +1,7 @@
+a. 10 iterações serão executadas.
+b. 10 iterações serão executadas.
+c. 10 iterações serão executadas.
+d. 21 iterações serão executadas.
+e. Um loop infinito será executado, pois i nunca será menor que 0.
+f. 11 iterações serão executadas.
+g. 7 iterações serão executadas.

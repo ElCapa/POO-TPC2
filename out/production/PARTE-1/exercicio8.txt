@@ -1,0 +1,7 @@
+a. O valor impresso na tela será 10.
+
+b. O valor impresso na tela será 6.
+
+c. O valor impresso na tela será 3. 
+
+d. O valor impresso na tela será 0. 

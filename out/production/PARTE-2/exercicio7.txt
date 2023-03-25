@@ -1,0 +1,8 @@
+a. O valor de total será 25.
+b. O valor de total será 13.
+c. O valor de total será 12.
+d. O valor de total será 22.
+e. O valor de total será 11.
+f. O valor de total será 25.
+g. O valor de total será 12.
+h. O valor de total será -1.

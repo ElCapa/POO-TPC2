@@ -1,0 +1,9 @@
+int n = in.nextInt();
+double x = 0;
+double s = 1.0 / (1 + n * n);
+while (s > 0.01)
+{
+x = x + s;
+n++;
+s=1.0 / (1 + n * n);
+}

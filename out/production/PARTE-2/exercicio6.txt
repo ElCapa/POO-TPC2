@@ -1,0 +1,4 @@
+A declaração está incompleta.A variável names foi declarada, mas não foi atribuída a nenhum valor.
+A declaração correta deveria ser:
+ArrayList<String> names = new ArrayList<String>();
+names.add("Bob"); 
